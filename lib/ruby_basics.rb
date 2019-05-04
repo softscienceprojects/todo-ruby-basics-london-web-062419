@@ -14,8 +14,8 @@ def greeting(one,two)
 
 end
 
-def return_a_value(saying)
-  puts saying
+def return_a_value
+  returns "Nice"
 end
 
 def last_evaluated_value(level)
