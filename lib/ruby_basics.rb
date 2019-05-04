@@ -18,8 +18,8 @@ def return_a_value(saying)
   return "Nice"
 end
 
-def last_evaluated_value
-
+def last_evaluated_value(level)
+  return level
 end
 
 def pizza_party
