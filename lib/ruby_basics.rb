@@ -19,7 +19,7 @@ def return_a_value(saying)
 end
 
 def last_evaluated_value(level)
-  return level
+   level
 end
 
 def pizza_party(topping="cheese")
