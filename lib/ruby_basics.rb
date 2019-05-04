@@ -18,7 +18,7 @@ def return_a_value(saying = "Nice")
   saying
 end
 
-def last_evaluated_value(level)
+def last_evaluated_value(level = "expert")
  level
 end
 
