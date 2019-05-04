@@ -14,7 +14,7 @@ def greeting(one,two)
 
 end
 
-def return_a_value(saying)
+def return_a_value(saying = "Nice")
   saying
 end
 
