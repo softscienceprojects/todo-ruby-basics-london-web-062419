@@ -6,16 +6,16 @@ def assign_variable(value)
   my_variable = value
 end
 
-def argue
+def argue(argument)
+  return argument
+end
+
+def greeting(one,two)
 
 end
 
-def greeting
-
-end
-
-def return_a_value
-
+def return_a_value(saying)
+  return saying
 end
 
 def last_evaluated_value
